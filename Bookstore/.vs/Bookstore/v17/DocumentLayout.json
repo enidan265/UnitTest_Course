@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nberger\\Desktop\\Bookstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E26B-30D1-4308-BE03-9A80BBF42B82}|Bookstore.Application.Unittests\\Bookstore.Application.Unittests.csproj|c:\\users\\nberger\\desktop\\bookstore\\bookstore.application.unittests\\services\\authorupdateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F114E26B-30D1-4308-BE03-9A80BBF42B82}|Bookstore.Application.Unittests\\Bookstore.Application.Unittests.csproj|solutionrelative:bookstore.application.unittests\\services\\authorupdateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52E8284-6098-499F-89B5-7FCAB7DCE7E9}|Bookstore.Application\\Bookstore.Application.csproj|c:\\users\\nberger\\desktop\\bookstore\\bookstore.application\\services\\authorupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52E8284-6098-499F-89B5-7FCAB7DCE7E9}|Bookstore.Application\\Bookstore.Application.csproj|solutionrelative:bookstore.application\\services\\authorupdateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52E8284-6098-499F-89B5-7FCAB7DCE7E9}|Bookstore.Application\\Bookstore.Application.csproj|c:\\users\\nberger\\desktop\\bookstore\\bookstore.application\\applicationlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52E8284-6098-499F-89B5-7FCAB7DCE7E9}|Bookstore.Application\\Bookstore.Application.csproj|solutionrelative:bookstore.application\\applicationlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationLogger.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\Desktop\\Bookstore\\Bookstore.Application\\ApplicationLogger.cs",
+              "RelativeDocumentMoniker": "Bookstore.Application\\ApplicationLogger.cs",
+              "ToolTip": "C:\\Users\\nberger\\Desktop\\Bookstore\\Bookstore.Application\\ApplicationLogger.cs",
+              "RelativeToolTip": "Bookstore.Application\\ApplicationLogger.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:44:33.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorUpdateServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\Desktop\\Bookstore\\Bookstore.Application.Unittests\\Services\\AuthorUpdateServiceTests.cs",
+              "RelativeDocumentMoniker": "Bookstore.Application.Unittests\\Services\\AuthorUpdateServiceTests.cs",
+              "ToolTip": "C:\\Users\\nberger\\Desktop\\Bookstore\\Bookstore.Application.Unittests\\Services\\AuthorUpdateServiceTests.cs",
+              "RelativeToolTip": "Bookstore.Application.Unittests\\Services\\AuthorUpdateServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:40:51.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorUpdateService.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\Desktop\\Bookstore\\Bookstore.Application\\Services\\AuthorUpdateService.cs",
+              "RelativeDocumentMoniker": "Bookstore.Application\\Services\\AuthorUpdateService.cs",
+              "ToolTip": "C:\\Users\\nberger\\Desktop\\Bookstore\\Bookstore.Application\\Services\\AuthorUpdateService.cs",
+              "RelativeToolTip": "Bookstore.Application\\Services\\AuthorUpdateService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwC4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:40:50.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

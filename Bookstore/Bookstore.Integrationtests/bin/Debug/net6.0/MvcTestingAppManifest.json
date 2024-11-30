@@ -1,0 +1,6 @@
+{
+  "Bookstore.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\nberger\\Downloads\\BookFilterTests\\Bookstore\\Bookstore",
+  "Bookstore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\nberger\\Downloads\\BookFilterTests\\Bookstore\\Bookstore.Application",
+  "Bookstore.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\nberger\\Downloads\\BookFilterTests\\Bookstore\\Bookstore.Domain",
+  "Bookstore.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\nberger\\Downloads\\BookFilterTests\\Bookstore\\Bookstore.Infrastructure"
+}

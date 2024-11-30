@@ -1,0 +1,14 @@
+C:\dev\ConsoleTemplate\ConsoleTemplate\bin\Release\net6.0\ConsoleTemplate.exe
+C:\dev\ConsoleTemplate\ConsoleTemplate\bin\Release\net6.0\ConsoleTemplate.deps.json
+C:\dev\ConsoleTemplate\ConsoleTemplate\bin\Release\net6.0\ConsoleTemplate.runtimeconfig.json
+C:\dev\ConsoleTemplate\ConsoleTemplate\bin\Release\net6.0\ConsoleTemplate.dll
+C:\dev\ConsoleTemplate\ConsoleTemplate\bin\Release\net6.0\ref\ConsoleTemplate.dll
+C:\dev\ConsoleTemplate\ConsoleTemplate\bin\Release\net6.0\ConsoleTemplate.pdb
+C:\dev\ConsoleTemplate\ConsoleTemplate\obj\Release\net6.0\ConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ConsoleTemplate\ConsoleTemplate\obj\Release\net6.0\ConsoleTemplate.AssemblyInfoInputs.cache
+C:\dev\ConsoleTemplate\ConsoleTemplate\obj\Release\net6.0\ConsoleTemplate.AssemblyInfo.cs
+C:\dev\ConsoleTemplate\ConsoleTemplate\obj\Release\net6.0\ConsoleTemplate.csproj.CoreCompileInputs.cache
+C:\dev\ConsoleTemplate\ConsoleTemplate\obj\Release\net6.0\ConsoleTemplate.dll
+C:\dev\ConsoleTemplate\ConsoleTemplate\obj\Release\net6.0\ref\ConsoleTemplate.dll
+C:\dev\ConsoleTemplate\ConsoleTemplate\obj\Release\net6.0\ConsoleTemplate.pdb
+C:\dev\ConsoleTemplate\ConsoleTemplate\obj\Release\net6.0\ConsoleTemplate.genruntimeconfig.cache

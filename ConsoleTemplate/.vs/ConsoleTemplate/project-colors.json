@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d550991-3bff-4134-b0a9-35b9b6f58b39": {
+      "ProjectGuid": "5d550991-3bff-4134-b0a9-35b9b6f58b39",
+      "DisplayName": "ConsoleTemplate",
+      "ColorIndex": 0
+    },
+    "381725bc-51a6-4da1-b6b3-7adced15cea2": {
+      "ProjectGuid": "381725bc-51a6-4da1-b6b3-7adced15cea2",
+      "DisplayName": "ConsoleTemplate.IntegrationTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
